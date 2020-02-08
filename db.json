@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fname": "Nozima",
+      "sname": "Murodova",
+      "phone_num": "+998XXXXXXXX",
+      "email": "nozi98@gmail.com",
+      "password": "pass"
+    },
+    {
+      "id": "2",
+      "fname": "Aziza",
+      "sname": "Isroilova",
+      "phone_num": "+998XXXXXXXX",
+      "email": "aziza98@gmail.com",
+      "password": "pass1"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "address": "Yunusobod district-11, Tashkent",
+      "description": "Old area open 100m^2 area with nice soil and water supply. Center of the city, cool!",
+      "post_img": "https://www.grace-bbi.eu/wp-content/uploads/2018/02/GRACE_Land-of-low-productivity.jpg",
+      "init_price": "12000000",
+      "bid_end_date": "12.12.2020"
+    },
+    {
+      "id": "2",
+      "address": "Chilonzor district-4, Tashkent",
+      "description": "Building, given for renting, 50m^2 area with nice soil and water supply. Center of the city, cool!",
+      "post_img": "https://www.grace-bbi.eu/wp-content/uploads/2018/02/GRACE_Land-of-low-productivity.jpg",
+      "init_price": "4000000",
+      "bid_end_date": "23.10.2020"
+    },
+    {
+      "id": "3",
+      "address": "Yashnobod district, Tashkent",
+      "description": "Old garden 66m^2 area with nice soil and water supply. Center of the city, cool!",
+      "post_img": "https://www.grace-bbi.eu/wp-content/uploads/2018/02/GRACE_Land-of-low-productivity.jpg",
+      "init_price": "8500000",
+      "bid_end_date": "13.12.2020"
+    },
+    {
+      "id": "4",
+      "address": "Uchtepa district, Tashkent",
+      "description": " Not used Shop with nice soil and water supply. Center of the city, cool!",
+      "post_img": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Enclosures_on_marginal_land%2C_Deer_Hill_Bents%2C_Meltham_-_geograph.org.uk_-_499699.jpg",
+      "init_price": "3000000",
+      "bid_end_date": "3.12.2020"
+    },
+    {
+      "address": "Yunusobod novostroyka",
+      "description": "some more description",
+      "post_img": "https://www.grace-bbi.eu/wp-content/uploads/2018/02/GRACE_Land-of-low-productivity.jpg",
+      "init_price": "320000000",
+      "bid_end_date": "21.10.2020",
+      "id": "CzIu7_x"
+    },
+    {
+      "address": "Yunusobod novostroyka",
+      "description": "some more description",
+      "post_img": "https://www.grace-bbi.eu/wp-content/uploads/2018/02/GRACE_Land-of-low-productivity.jpg",
+      "init_price": "320000000",
+      "bid_end_date": "21.10.2020",
+      "id": "L4ytLkd"
+    }
+  ]
+}

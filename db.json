@@ -23,7 +23,7 @@
       "title": "The empty building and facilities of the recreation area",
       "address": "Tashkent city, Bektemir, Ahangaran str.",
       "description": "Affiliation: Hokimiyat of Tashkent. Reconstruction and further use according to the profile of activity",
-      "post_img": "https://www.grace-bbi.eu/wp-content/uploads/2018/02/GRACE_Land-of-low-productivity.jpg",
+      "post_img": "https://swalker.org/uploads/posts/2013-12/1386938303_swalker.org_swalker.ru_09.jpg",
       "init_price": "12000000",
       "bid_end_date": "12.12.2020"
     },
@@ -32,7 +32,7 @@
       "title": "Office building and facilities",
       "address": "SE 19-sonli qurilish korxonalar birlashgan direksiyasi",
       "description": "Affiliation: Ministry of agriculture and water resources. Reconstruction and further use according to the profile of activity",
-      "post_img": "https://www.grace-bbi.eu/wp-content/uploads/2018/02/GRACE_Land-of-low-productivity.jpg",
+      "post_img": "https://izhlife.ru/uploads/posts/2015-02/1423654851_v-stroitele-solod.jpg",
       "init_price": "4000000",
       "bid_end_date": "23.10.2020"
     },
@@ -41,7 +41,7 @@
       "title": "Buildings (part of the plant)",
       "address": "Hokimiyat Bektemir district, Tashkent",
       "description": "Affiliation: Hokimiyat of Tashkent. Public bidding",
-      "post_img": "https://www.grace-bbi.eu/wp-content/uploads/2018/02/GRACE_Land-of-low-productivity.jpg",
+      "post_img": "https://anhor.uz/userfiles/images/rohat2.jpg",
       "init_price": "8500000",
       "bid_end_date": "13.12.2020"
     },
@@ -50,7 +50,7 @@
       "title": "Administrative Building",
       "address": "st.Mirzo Ulugbek d.136",
       "description": " Affiliation: Hokimiyat of Tashkent. Use of Mahalla gathering sitezens as an administartive building.",
-      "post_img": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Enclosures_on_marginal_land%2C_Deer_Hill_Bents%2C_Meltham_-_geograph.org.uk_-_499699.jpg",
+      "post_img": "https://izhlife.ru/uploads/posts/newsimg/imgs-171845.jpg",
       "init_price": "3000000",
       "bid_end_date": "3.12.2020"
     },
@@ -59,10 +59,21 @@
       "title": "The building of pipe station",
       "address": "st.Fayzabad 4-way, DP Tashkent suv ta'minoti",
       "description": "Ensuring the effective use and optimization of the land plot with the subsequent adoption of unused land in the land reserve of the khokimiyat of Tashkent",
-      "post_img": "https://www.grace-bbi.eu/wp-content/uploads/2018/02/GRACE_Land-of-low-productivity.jpg",
+      "post_img": "https://xmoscow.narod.ru/moskvaxru3/akvadrom_1.jpg",
       "init_price": "320000000",
       "bid_end_date": "21.10.2020"    
     }
     
+  ],
+  "post":[
+  	{
+  	 "id": "4",
+      "title": "Administrative Building",
+      "address": "st.Mirzo Ulugbek d.136",
+      "description": " Affiliation: Hokimiyat of Tashkent. Use of Mahalla gathering sitezens as an administartive building.",
+      "post_img": "https://izhlife.ru/uploads/posts/newsimg/imgs-171845.jpg",
+      "init_price": "3000000",
+      "bid_end_date": "3.12.2020"	
+  	}
   ]
 }

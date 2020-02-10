@@ -2,20 +2,13 @@
   "users": [
     {
       "id": "1",
-      "fname": "Nozima",
-      "sname": "Murodova",
+      "fname": "Username",
+      "sname": "User Lastname",
       "phone_num": "+998XXXXXXXX",
-      "email": "nozi98@gmail.com",
+      "email": "user98@gmail.com",
       "password": "pass"
-    },
-    {
-      "id": "2",
-      "fname": "Aziza",
-      "sname": "Isroilova",
-      "phone_num": "+998XXXXXXXX",
-      "email": "aziza98@gmail.com",
-      "password": "pass1"
-    }
+    }    
+  
   ],
   "posts": [
     {
